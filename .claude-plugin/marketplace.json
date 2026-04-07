@@ -16,7 +16,7 @@
         "url": "https://github.com/HurleySk/claude-xrmtoolbox-skill.git"
       },
       "description": "Skill for building XrmToolBox plugins for Dynamics 365 / Dataverse. Scaffolding, architecture guidance, packaging, deployment, and publishing.",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }

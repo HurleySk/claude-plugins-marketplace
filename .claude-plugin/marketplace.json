@@ -1,0 +1,22 @@
+{
+  "name": "hurleysk-marketplace",
+  "owner": {
+    "name": "Samuel Hurley",
+    "url": "https://github.com/HurleySk"
+  },
+  "metadata": {
+    "description": "Claude Code plugins for XrmToolBox and Dynamics 365 / Dataverse development",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "xrmtoolbox-plugin-dev",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/HurleySk/claude-xrmtoolbox-skill.git"
+      },
+      "description": "Skill for building XrmToolBox plugins for Dynamics 365 / Dataverse. Scaffolding, architecture guidance, packaging, deployment, and publishing.",
+      "version": "1.0.0"
+    }
+  ]
+}

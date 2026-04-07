@@ -17,6 +17,15 @@
       },
       "description": "Skill for building XrmToolBox plugins for Dynamics 365 / Dataverse. Scaffolding, architecture guidance, packaging, deployment, and publishing.",
       "version": "1.0.2"
+    },
+    {
+      "name": "xrmtoolbox-testing",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/HurleySk/claude-xrmtoolbox-testing-skill.git"
+      },
+      "description": "Skill for testing XrmToolBox plugins. Test project scaffolding, mock IOrganizationService, smoke tests, concurrency testing, and CI patterns.",
+      "version": "1.0.0"
     }
   ]
 }

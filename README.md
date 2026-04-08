@@ -1,12 +1,13 @@
 # Claude Code Plugins Marketplace
 
-A Claude Code marketplace for XrmToolBox and Dynamics 365 / Dataverse development tools.
+A Claude Code marketplace for XrmToolBox, Dynamics 365 / Dataverse development tools, and skill authoring.
 
 ## Available Plugins
 
 | Plugin | Skills | Description |
 |--------|--------|-------------|
 | **xrmtoolbox** | `plugin-dev`, `testing` | Build, deploy, pack, publish, scaffold tests, mock IOrganizationService, smoke tests, and UI testing for XrmToolBox plugins. |
+| **skill-authoring** | `skill-authoring` | Create, write, and publish Claude Code skills to this marketplace. Scaffolding, best practices, CI/CD, and marketplace registration. |
 
 ## Installation
 

@@ -17,6 +17,15 @@
       },
       "description": "Skills for building and testing XrmToolBox plugins for Dynamics 365 / Dataverse. Development, packaging, publishing, test scaffolding, mocks, and UI testing.",
       "version": "2.0.0"
+    },
+    {
+      "name": "skill-authoring",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/HurleySk/claude-skill-authoring.git"
+      },
+      "description": "Meta-skill for authoring and publishing Claude Code skills to the HurleySk marketplace. Scaffolding, best practices, CI/CD setup, and marketplace registration.",
+      "version": "1.0.0"
     }
   ]
 }

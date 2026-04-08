@@ -4,6 +4,9 @@ on:
   repository_dispatch:
     types: [plugin-version-update]
 
+permissions:
+  contents: write
+
 jobs:
   update-marketplace:
     runs-on: ubuntu-latest

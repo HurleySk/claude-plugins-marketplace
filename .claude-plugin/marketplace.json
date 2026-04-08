@@ -25,7 +25,7 @@
         "url": "https://github.com/HurleySk/claude-xrmtoolbox-testing-skill.git"
       },
       "description": "Skill for testing XrmToolBox plugins. Test scaffolding, mock IOrganizationService, smoke tests, and UI testing via Test Harness + FlaUI-MCP.",
-      "version": "1.1.0"
+      "version": "1.1.1"
     }
   ]
 }

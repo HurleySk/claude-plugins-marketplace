@@ -25,7 +25,7 @@
         "url": "https://github.com/HurleySk/claude-skill-authoring.git"
       },
       "description": "Meta-skill for authoring and publishing Claude Code skills to the HurleySk marketplace. Scaffolding, best practices, CI/CD setup, and marketplace registration.",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }

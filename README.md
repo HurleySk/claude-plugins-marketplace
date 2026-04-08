@@ -7,6 +7,7 @@ A Claude Code marketplace for XrmToolBox and Dynamics 365 / Dataverse developmen
 | Plugin | Description |
 |--------|-------------|
 | **xrmtoolbox-plugin-dev** | Skill for building XrmToolBox plugins. Scaffolding, architecture guidance, packaging, deployment, and publishing to the XrmToolBox Tool Store. |
+| **xrmtoolbox-testing** | Skill for testing XrmToolBox plugins. Test scaffolding, mock IOrganizationService, smoke tests, and UI testing via [Test Harness](https://github.com/HurleySk/xrmtoolbox-testing-toolkit) + FlaUI-MCP. |
 
 ## Installation
 

@@ -16,7 +16,7 @@
         "url": "https://github.com/HurleySk/claude-xrmtoolbox-skill.git"
       },
       "description": "Skills for building and testing XrmToolBox plugins for Dynamics 365 / Dataverse. Development, packaging, publishing, test scaffolding, mocks, and UI testing.",
-      "version": "3.0.2"
+      "version": "3.0.3"
     },
     {
       "name": "skill-authoring",

@@ -34,7 +34,7 @@
         "url": "https://github.com/HurleySk/claude-cicd-safety-skill.git"
       },
       "description": "Claude Code skills for CI/CD safety — production protection hooks, environment validation, deployment guardrails.",
-      "version": "1.1.3"
+      "version": "1.1.4"
     }
   ]
 }

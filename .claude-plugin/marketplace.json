@@ -26,6 +26,15 @@
       },
       "description": "Meta-skill for authoring and publishing Claude Code skills to the HurleySk marketplace. Scaffolding, best practices, CI/CD setup, and marketplace registration.",
       "version": "1.0.3"
+    },
+    {
+      "name": "cicd-safety",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/HurleySk/claude-cicd-safety-skill.git"
+      },
+      "description": "Claude Code skills for CI/CD safety — production protection hooks, environment validation, deployment guardrails.",
+      "version": "1.0.0"
     }
   ]
 }

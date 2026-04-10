@@ -44,6 +44,15 @@
       },
       "description": "Claude Code skills for the knbn kanban board — register work items, smart-join existing cards, and post status updates to track work across multiple Claude Code instances.",
       "version": "1.0.0"
+    },
+    {
+      "name": "sherlock",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/HurleySk/sherlock.git"
+      },
+      "description": "Domain analyst skills for Claude Code — ETL/data migration analysis, mapping document generation, data lineage tracing with column-level precision.",
+      "version": "1.0.0"
     }
   ]
 }

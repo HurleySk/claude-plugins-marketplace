@@ -1,6 +1,6 @@
 # Claude Code Plugins Marketplace
 
-A Claude Code marketplace for XrmToolBox, Dynamics 365 / Dataverse development, data migration analysis, skill authoring, and productivity extensions.
+A Claude Code marketplace for XrmToolBox, Dynamics 365 / Dataverse development, data migration analysis, terminal UI design, skill authoring, and productivity extensions.
 
 ## Available Plugins
 
@@ -10,6 +10,7 @@ A Claude Code marketplace for XrmToolBox, Dynamics 365 / Dataverse development, 
 | **skill-authoring** | `skill-authoring`, `skill-review` | Create, write, and publish Claude Code skills to this marketplace. Scaffolding, best practices, CI/CD, marketplace registration, and comprehensive skill quality assessment. |
 | **knbn** | `knbn`, `knbn-join`, `knbn-status` | Track work across multiple Claude Code CLI instances via a VS Enterprise kanban board. Register work items, smart-join existing cards, and post status updates. |
 | **sherlock** | `migration-analyst`, `mapping-guide`, `lineage-tracer` | Domain analyst skills for ETL/data migration — mapping document generation, data lineage tracing with column-level precision. |
+| **terminal-ui-design** | `terminal-ui-design` | Design polished terminal UIs — guided design workflows, CLI output auditing, refactoring with box drawing, color, typography, animation, and data visualization. |
 
 ## Installation
 

@@ -53,6 +53,15 @@
       },
       "description": "Domain analyst skills for Claude Code — ETL/data migration analysis, mapping document generation, data lineage tracing with column-level precision.",
       "version": "1.0.0"
+    },
+    {
+      "name": "terminal-ui-design",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/HurleySk/claude-terminal-ui-design-skill.git"
+      },
+      "description": "Design polished terminal UIs — guided TUI design workflows, CLI output auditing, refactoring plain output into distinctive interfaces with box drawing, color, typography, animation, and data visualization.",
+      "version": "1.0.0"
     }
   ]
 }

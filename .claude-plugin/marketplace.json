@@ -53,6 +53,15 @@
       },
       "description": "Domain analyst skills for Claude Code — ETL/data migration analysis, mapping document generation, data lineage tracing with column-level precision.",
       "version": "2.1.0"
+    },
+    {
+      "name": "skill-engine",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/HurleySk/skill-engine.git"
+      },
+      "description": "Hook-driven skill activation and guardrail enforcement for Claude Code projects. Reads skill-rules.json to suggest relevant skills on prompt and enforce guardrails on file edits.",
+      "version": "1.0.0"
     }
   ]
 }

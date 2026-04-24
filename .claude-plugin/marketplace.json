@@ -52,7 +52,7 @@
         "url": "https://github.com/HurleySk/sherlock.git"
       },
       "description": "Domain analyst skills for Claude Code — ETL/data migration analysis, mapping document generation, data lineage tracing with column-level precision.",
-      "version": "2.1.0"
+      "version": "2.1.1"
     },
     {
       "name": "skill-engine",

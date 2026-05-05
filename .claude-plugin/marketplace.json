@@ -71,6 +71,15 @@
       },
       "description": "One-shot refresh of Claude Code marketplaces, plugin updates, and session reload.",
       "version": "1.0.1"
+    },
+    {
+      "name": "gantt",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/HurleySk/claude-gantt-skill.git"
+      },
+      "description": "Project management skills — conversational planning with iterative discovery, deterministic date sequencing with US federal holiday awareness, dependency tracking, critical path analysis, and optional MS Project sync via mpp-mcp.",
+      "version": "1.0.0"
     }
   ]
 }

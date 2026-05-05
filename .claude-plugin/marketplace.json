@@ -70,7 +70,7 @@
         "url": "https://github.com/HurleySk/claude-refresh-skill.git"
       },
       "description": "One-shot refresh of Claude Code marketplaces, plugin updates, and session reload.",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }

@@ -62,6 +62,15 @@
       },
       "description": "Hook-driven skill activation and guardrail enforcement for Claude Code projects. Reads skill-rules.json to suggest relevant skills on prompt and enforce guardrails on file edits.",
       "version": "3.3.10"
+    },
+    {
+      "name": "refresh",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/HurleySk/claude-refresh-skill.git"
+      },
+      "description": "One-shot refresh of Claude Code marketplaces, plugin updates, and session reload.",
+      "version": "1.0.0"
     }
   ]
 }

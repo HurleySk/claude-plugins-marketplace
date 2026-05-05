@@ -12,6 +12,7 @@ A Claude Code marketplace for XrmToolBox, Dynamics 365 / Dataverse development, 
 | **knbn** | `knbn`, `knbn-join`, `knbn-status` | Track work across multiple Claude Code CLI instances via a VS Enterprise kanban board. Register work items, smart-join existing cards, and post status updates. |
 | **sherlock** | `migration-analyst`, `lineage-tracer`, `mapping-guide`, `pipeline-review` | ETL/data migration analysis — mapping document generation, data lineage tracing with column-level precision, and multi-agent pipeline review orchestration. Works with any ETL stack. |
 | **cicd-safety** | `cicd-fortify`, `guard`, `safety-hooks` | CI/CD safety assessment, pre-commit guard reviews, and production safety hooks for Claude Code. |
+| **refresh** | `refresh` | One-shot refresh of Claude Code marketplaces, plugin updates, and session reload. |
 
 ## Installation
 
